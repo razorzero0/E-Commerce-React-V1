@@ -1,0 +1,28 @@
+.btn-class button {
+    text-align: start;
+border-radius: 8px;
+ background-color: #53465D;
+ color: aliceblue;
+ width:10em;
+ height: 4em;
+}
+
+.btn-class button:hover{
+    background-color: #4d3d58;   
+}
+
+.btn-class li {
+    display : flex;
+    align-items: center;
+    gap: 8px;
+    height: 4em;
+    width:13em;
+    padding-left: 2.5em;
+    color:beige;
+    font-weight: 500;
+}
+
+.btn-class li:hover{
+    background-color: #4d3d58; 
+    border-radius: 10px;  
+}
